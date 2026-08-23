@@ -1,0 +1,14 @@
+Subject: [테스트 요청] iOS 배포 빌드 확인 요청
+From: 최배포 <deploy@example.com>
+Date: 2026-08-23T16:05:00+09:00
+
+안녕하세요.
+
+앱 버전 : 3.0.1 (빌드 512)
+대상 : iOS 16 이상
+서버 : hotfix
+
+설치 링크
+https://testflight.apple.com/join/abc123
+
+확인 대상 티켓: IOS-77
